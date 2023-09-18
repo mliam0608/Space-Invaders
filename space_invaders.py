@@ -258,7 +258,6 @@ enemySize = len(Enemies.enemies)
 game_state = "start_menu"
 
 while True:
-
     #allow the user to exit the game by pressing the 'X' button
     for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -345,6 +344,7 @@ while True:
             elif EnemyLaser.checkCollision(Player.position) == True:
                 enemyLaser_active = False
                 screen.blit(pygame.transform.scale(pygame.image.load('explosion.png'), (200,200)), (Player.position - 50, 550))
+                pygame.display.update()
                 Player.playerHit()
 
         #hanndle the behavior for the group fo enemies
@@ -354,6 +354,7 @@ while True:
                 laser_active = False
                 Laser.y_pos = 600
                 screen.blit(pygame.transform.scale(pygame.image.load('explosion.png'), (100,100)), (enemy.x_pos, enemy.y_pos))
+                pygame.display.update()
                 enemy.remove()
                 enemySize -= 1
                 Player.enemyHit()
