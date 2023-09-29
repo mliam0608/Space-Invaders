@@ -5,8 +5,7 @@ To play the game, a user must first install the Pygame module. The project was
 created independently using OOD as a final project for computing fundamentals 
 at Northeastern University.
 
-![image](https://github.com/mliam0608/Space-Invaders/assets/138416854/e9f2acb3-f550-4ee7-8a0f-ac992b2dc465)
-![image](https://github.com/mliam0608/Space-Invaders/assets/138416854/967e42d5-049e-4b75-be01-b47427f1891c)
-![image](https://github.com/mliam0608/Space-Invaders/assets/138416854/7e91a859-9c3b-42f1-8734-01693fc0157c)
-![image](https://github.com/mliam0608/Space-Invaders/assets/138416854/9b9a942e-3517-4c59-b73f-0ef0b511bf70)
-![image](https://github.com/mliam0608/Space-Invaders/assets/138416854/a2dadb0b-4990-4b51-a6ca-3170f0c8452e)
+![686a9bea-0445-4406-ae73-429a2fc02d94_rw_1200](https://github.com/mliam0608/Space-Invaders/assets/138416854/03edda2b-de38-445c-ae77-fa3cd7dfdc93)
+![c685c565-9dab-456e-b0de-e1318816301e_rw_1200](https://github.com/mliam0608/Space-Invaders/assets/138416854/201f7c78-23b1-4cf1-a301-6499dd942542)
+![9073d099-c55b-4294-9ac8-1468e97b8cdb_rw_1200](https://github.com/mliam0608/Space-Invaders/assets/138416854/0638500c-0437-4ddb-8f35-13419e5dd117)
+![c11fa6d2-3b03-49ce-a194-d73a553877ef_rw_1200](https://github.com/mliam0608/Space-Invaders/assets/138416854/211e7d11-1450-4ae9-bfed-20838bc0693d)
